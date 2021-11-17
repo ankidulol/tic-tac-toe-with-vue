@@ -1,4 +1,6 @@
-# vue-project-created-with-cli
+# Tic-Tac-Toe made with Vue.js
+
+![Tic Tac Toe](https://raw.githubusercontent.com/jrvq/tic-tac-toe-with-vue/master/src/assets/game.png)
 
 ## Project setup
 ```
@@ -14,11 +16,3 @@ yarn serve
 ```
 yarn build
 ```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
